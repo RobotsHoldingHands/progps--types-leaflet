@@ -1,32 +1,32 @@
 {
   "_args": [
     [
-      "@types/leaflet@1.5.9",
+      "@types/leaflet@git+https://github.com/RobotsHoldingHands/progps--types-leaflet.git",
       "/Users/imediatum/Projeto GPS/progps"
     ]
   ],
-  "_from": "@types/leaflet@1.5.9",
+  "_from": "@types/leaflet@https://github.com/RobotsHoldingHands/progps--types-leaflet",
   "_id": "@types/leaflet@1.5.9",
   "_inBundle": false,
-  "_integrity": "sha512-vFj2Y764lC6PpmmoFTui3yEMAKf+Dy08eGIaFgM+efJoKNxDP/bsEr2UHloP6kkJqc+4VO9+KYea2ZhiZCnNrQ==",
+  "_integrity": "",
   "_location": "/@types/leaflet",
   "_phantomChildren": {},
   "_requested": {
-    "type": "version",
-    "registry": true,
-    "raw": "@types/leaflet@1.5.9",
+    "type": "git",
+    "raw": "@types/leaflet@https://github.com/RobotsHoldingHands/progps--types-leaflet",
     "name": "@types/leaflet",
     "escapedName": "@types%2fleaflet",
     "scope": "@types",
-    "rawSpec": "1.5.9",
-    "saveSpec": null,
-    "fetchSpec": "1.5.9"
+    "rawSpec": "https://github.com/RobotsHoldingHands/progps--types-leaflet",
+    "saveSpec": "git+https://github.com/RobotsHoldingHands/progps--types-leaflet.git",
+    "fetchSpec": "https://github.com/RobotsHoldingHands/progps--types-leaflet.git",
+    "gitCommittish": null
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/@types/leaflet/-/leaflet-1.5.9.tgz",
-  "_spec": "1.5.9",
+  "_resolved": "https://github.com/RobotsHoldingHands/progps--types-leaflet",
+  "_spec": "https://github.com/RobotsHoldingHands/progps--types-leaflet",
   "_where": "/Users/imediatum/Projeto GPS/progps",
   "bugs": {
     "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
