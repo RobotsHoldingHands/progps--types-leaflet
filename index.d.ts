@@ -1974,3 +1974,5 @@ export namespace Util {
 export namespace vectorGrid {
     function protobuf(...options: any) : any;
 }
+
+export function polylineWithRadius(latlngs: LatLngExpression[] | LatLngExpression[][], options?: any): any;
